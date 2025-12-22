@@ -1,7 +1,7 @@
 ARG DF_IMG_TAG=latest
 ARG IMAGE_REPOSITORY=deepfenceio
 
-FROM golang:1.23-bookworm
+FROM golang:1.26rc1-bookworm
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
