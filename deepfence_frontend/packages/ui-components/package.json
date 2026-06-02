@@ -41,7 +41,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "@tanstack/react-table": "^8.15.3",
     "cva": "npm:class-variance-authority@^0.7.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "react-use": "^17.5.0",
     "tailwind-preset": "workspace:*"
   },
@@ -79,7 +79,7 @@
     "eslint-plugin-simple-import-sort": "^12.0.0",
     "eslint-plugin-storybook": "^0.8.0",
     "jsdom": "^24.0.0",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.10",
     "postcss-import": "^16.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -88,9 +88,9 @@
     "storybook": "^8.0.6",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.4.4",
-    "vite": "^5.2.8",
+    "vite": "^6.4.2",
     "vite-plugin-dts": "^3.8.1",
-    "vitest": "^1.4.0"
+    "vitest": "^4.1.0"
   },
   "engines": {
     "node": ">=18.0.0"
